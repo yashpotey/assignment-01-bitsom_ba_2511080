@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": "ELEC001",
+    "name": "Smartphone X12",
+    "category": "Electronics",
+    "price": 45000,
+    "brand": "TechMax",
+    "specifications": {
+      "warranty_years": 2,
+      "voltage": "220V",
+      "battery": "5000mAh",
+      "storage": "128GB"
+    },
+    "features": ["5G", "Dual SIM", "Fast Charging"],
+    "ratings": {
+      "average": 4.5,
+      "reviews_count": 1200
+    }
+  },
+  {
+    "product_id": "CLOT001",
+    "name": "Men's Denim Jacket",
+    "category": "Clothing",
+    "price": 3500,
+    "brand": "UrbanStyle",
+    "sizes_available": ["S", "M", "L", "XL"],
+    "material": "Denim",
+    "color_options": ["Blue", "Black"],
+    "ratings": {
+      "average": 4.2,
+      "reviews_count": 350
+    }
+  },
+  {
+    "product_id": "GROC001",
+    "name": "Organic Milk 1L",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "FarmFresh",
+    "expiry_date": "2024-12-20",
+    "nutritional_info": {
+      "calories": 42,
+      "protein": "3.4g",
+      "fat": "1g"
+    },
+    "storage_instructions": "Keep refrigerated",
+    "batch_details": {
+      "batch_no": "BATCH789",
+      "manufacture_date": "2024-12-01"
+    }
+  }
+]
